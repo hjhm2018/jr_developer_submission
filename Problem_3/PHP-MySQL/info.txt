@@ -1,0 +1,7 @@
+Please find the database warehouse.sql inside the folder.
+
+If you have any question regarding the code, please contact me.
+
+To login just use:
+* use as username
+* 12345 as password

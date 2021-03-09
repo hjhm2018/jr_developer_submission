@@ -1,0 +1,1 @@
+SELECT firstName, lastName, address, city, province, postalCode, moveInDate FROM employees, addresses, provinces  WHERE employees.employeeID = addresses.employeeID AND addresses.provinceID = provinces.provinceID 

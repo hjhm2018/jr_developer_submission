@@ -1,0 +1,3 @@
+Please find the database company_db.sql inside the folder.
+
+The query is inside the query.txt file. 
